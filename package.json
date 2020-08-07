@@ -1,0 +1,15 @@
+{
+  "name": "front-end-task-express-heroku",
+  "version": "1.0.0",
+  "description": "This application will serve up some static files.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prerna Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
